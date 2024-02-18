@@ -1,0 +1,3321 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.payment-page-E8X {
+  background-color: #ffffff;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+
+  .header-vX9 {
+    margin-bottom: 9.5rem;
+    box-sizing: border-box;
+    padding: 2.4rem;
+    height: 9.6rem;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    border: solid 0.1rem #e2e8f0;
+    flex-shrink: 0;
+
+    .magnifico-pcX {
+      font-weight: 700;
+      line-height: 1.1000000238;
+      color: #0f172a;
+      font-family: Roboto, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 0.1rem 19.35rem 0rem 0rem;
+      font-size: 3.2rem;
+    }
+    .menu-hgK {
+      position: relative;
+      flex-shrink: 0;
+      margin: 1.2rem 2.15rem 1.2rem 0rem;
+      width: 74.6rem;
+      height: calc(100% - 2.4rem);
+
+      .menu-item-R6X {
+        position: absolute;
+        left: 0;
+        display: flex;
+        align-items: center;
+        box-sizing: border-box;
+        width: 22.6rem;
+        height: 2.4rem;
+        padding-right: 13.026rem;
+        top: 0;
+
+        .auto-group-xqaw-XvF {
+          width: 6.9rem;
+          font-size: 1.6rem;
+          line-height: 1.5;
+          font-family: Roboto, 'Source Sans Pro';
+          margin-right: 1.3402rem;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 100%;
+          font-weight: 500;
+          letter-spacing: 0.05rem;
+          white-space: nowrap;
+          flex-shrink: 0;
+          color: #0f172a;
+        }
+        .icon-jam-icons-outline-logos-chevron-down-mpb {
+          margin-bottom: 0.0214rem;
+          width: 1.3339rem;
+          height: 0.7669rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+      }
+      .menu-item-ggf {
+        position: absolute;
+        top: 0;
+        padding-right: 12.726rem;
+        width: 22.6rem;
+        left: 12.5rem;
+        display: flex;
+        align-items: center;
+        box-sizing: border-box;
+        height: 2.4rem;
+
+        .auto-group-upyf-bod {
+          font-family: Roboto, 'Source Sans Pro';
+          width: 7.2rem;
+          line-height: 1.5;
+          color: #0f172a;
+          margin-right: 1.3402rem;
+          display: flex;
+          align-items: center;
+          height: 100%;
+          font-size: 1.6rem;
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-weight: 500;
+          letter-spacing: 0.05rem;
+          justify-content: center;
+        }
+        .icon-jam-icons-outline-logos-chevron-down-U6j {
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-bottom: 0.0214rem;
+          width: 1.3339rem;
+          height: 0.7669rem;
+        }
+      }
+      .menu-item-bBM {
+        padding-right: 13.426rem;
+        width: 22.6rem;
+        height: 2.4rem;
+        position: absolute;
+        left: 25.3rem;
+        top: 0;
+        display: flex;
+        box-sizing: border-box;
+        align-items: center;
+
+        .auto-group-3dqh-imm {
+          font-size: 1.6rem;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          color: #0f172a;
+          white-space: nowrap;
+          margin-right: 1.2402rem;
+          width: 6.6rem;
+          letter-spacing: 0.05rem;
+          font-family: Roboto, 'Source Sans Pro';
+          height: 100%;
+          font-weight: 500;
+          line-height: 1.5;
+          flex-shrink: 0;
+        }
+        .icon-jam-icons-outline-logos-chevron-down-pK1 {
+          width: 1.3339rem;
+          height: 0.7669rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-bottom: 0.0214rem;
+        }
+      }
+      .menu-item-hdh {
+        position: absolute;
+        display: flex;
+        align-items: center;
+        box-sizing: border-box;
+        padding-right: 10.926rem;
+        width: 22.6rem;
+        height: 2.4rem;
+        left: 37.4rem;
+        top: 0;
+
+        .auto-group-ncsj-ogj {
+          width: 9rem;
+          height: 100%;
+          color: #0f172a;
+          flex-shrink: 0;
+          margin-right: 1.3402rem;
+          white-space: nowrap;
+          display: flex;
+          align-items: center;
+          font-size: 1.6rem;
+          letter-spacing: 0.05rem;
+          font-family: Roboto, 'Source Sans Pro';
+          font-weight: 500;
+          line-height: 1.5;
+          justify-content: center;
+        }
+        .icon-jam-icons-outline-logos-chevron-down-hGK {
+          width: 1.3339rem;
+          height: 0.7669rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-bottom: 0.0214rem;
+        }
+      }
+      .menu-item-dQs {
+        height: 2.4rem;
+        position: absolute;
+        left: 52rem;
+        top: 0;
+        width: 22.6rem;
+
+        .auto-group-vbjm-Afh {
+          height: 100%;
+          font-size: 1.6rem;
+          font-weight: 500;
+          letter-spacing: 0.05rem;
+          color: #0f172a;
+          font-family: Roboto, 'Source Sans Pro';
+          white-space: nowrap;
+          align-items: center;
+          margin-right: 17.2rem;
+          width: 5.4rem;
+          line-height: 1.5;
+          display: flex;
+          justify-content: center;
+        }
+      }
+    }
+    .buttons-group-fsM {
+      width: 28.7rem;
+      height: 100%;
+      position: relative;
+      flex-shrink: 0;
+
+      .button-cGo {
+        left: 0;
+        top: 0;
+        border-radius: 0.8rem;
+        box-sizing: border-box;
+        padding: 0.8rem 1.34rem 1.2rem 1.34rem;
+        width: 17.6rem;
+        height: 4.8rem;
+        position: absolute;
+
+        .auto-group-wne3-7jM {
+          color: #2563eb;
+          font-family: Roboto, 'Source Sans Pro';
+          width: 5.86rem;
+          height: 100%;
+          font-size: 1.6rem;
+          letter-spacing: 0.05rem;
+          line-height: 1.5;
+          white-space: nowrap;
+          margin-right: 9.06rem;
+          box-sizing: border-box;
+          padding: 0.4rem 0rem 0rem 1.06rem;
+          font-weight: 500;
+        }
+      }
+      .button-zHM {
+        padding: 1.2rem 1.7rem 1.2rem 1.74rem;
+        height: 4.8rem;
+        position: absolute;
+        top: 0;
+        display: flex;
+        background-color: #2563eb;
+        box-sizing: border-box;
+        left: 11.1rem;
+        align-items: center;
+        border: solid 0.2rem #2563eb;
+        border-radius: 0.8rem;
+        width: 17.6rem;
+
+        .auto-group-he5m-6rB {
+          height: 100%;
+          font-size: 1.6rem;
+          line-height: 1.5;
+          font-family: Roboto, 'Source Sans Pro';
+          white-space: nowrap;
+          margin-right: 2rem;
+          box-sizing: border-box;
+          letter-spacing: 0.05rem;
+          color: #ffffff;
+          flex-shrink: 0;
+          padding-left: 1.06rem;
+          font-weight: 500;
+        }
+        .icon-jam-icons-outline-logos-arrow-right-CeK {
+          width: 1.4001rem;
+          height: 1.3314rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-bottom: 0.0662rem;
+        }
+      }
+    }
+  }
+  .auto-group-qsb9-f27 {
+    flex-shrink: 0;
+    margin: 0rem 0rem 22.3rem 12rem;
+    width: 284.4rem;
+    height: 298.7rem;
+
+    .frame-804-BWF {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+
+      .frame-808-XKD {
+        width: 120rem;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        margin-bottom: 7.9rem;
+
+        .frame-803-55q {
+          height: 217.5rem;
+          position: relative;
+          flex-shrink: 0;
+          margin-bottom: 3.2rem;
+          width: 100%;
+
+          .frame-796-Q87 {
+            width: 83.1rem;
+            height: 217.5rem;
+            position: absolute;
+            left: 0;
+            top: 0;
+
+            .frame-977-Yk7 {
+              width: 79.2rem;
+              margin-bottom: 6.4rem;
+
+              .text-JDV {
+                font-weight: 800;
+                line-height: 1;
+                letter-spacing: 0.0384rem;
+                color: #1c2024;
+                font-family: Roboto, 'Source Sans Pro';
+                white-space: nowrap;
+                margin-bottom: 6rem;
+                font-size: 6.4rem;
+              }
+              .section-message-EN3 {
+                border: solid 0.1rem #d3d4db;
+                border-radius: 1.6rem;
+                box-sizing: border-box;
+                padding: 1.6rem 1.6rem 0rem 2rem;
+                position: relative;
+                background-color: #fcfcfd;
+                width: 100%;
+                height: 8.2rem;
+                overflow: hidden;
+
+                .conteiner-9zo {
+                  width: 100%;
+                  height: 9.6rem;
+                  display: flex;
+                  align-items: flex-start;
+
+                  .auto-group-tmdy-uj5 {
+                    height: 9.2rem;
+                    flex-shrink: 0;
+                    margin: 0.4rem 40.8rem 0rem 0rem;
+                    width: 32.4rem;
+
+                    .content-Sj1 {
+                      height: 100%;
+                      width: 100%;
+
+                      .text-wrapper-pLF {
+                        width: 100%;
+                        height: 4.4rem;
+                        display: flex;
+                        flex-direction: column;
+
+                        .title-a4X {
+                          display: flex;
+                          font-size: 1.4rem;
+                          font-weight: 600;
+                          font-family: Open Sans, 'Source Sans Pro';
+                          flex-shrink: 0;
+                          margin-bottom: 0.4rem;
+                          line-height: 1.4285714286;
+                          color: #1c2024;
+                          white-space: nowrap;
+                        }
+                        .description-JFR {
+                          color: #60646c;
+                          font-family: Open Sans, 'Source Sans Pro';
+                          white-space: nowrap;
+                          flex-shrink: 0;
+                          display: flex;
+                          font-size: 1.4rem;
+                          font-weight: 400;
+                          line-height: 1.4285714286;
+                        }
+                      }
+                    }
+                  }
+                  .close-button-2hD {
+                    width: 2.4rem;
+                    height: 2.4rem;
+                    object-fit: contain;
+                    vertical-align: top;
+                    border-radius: 100rem;
+                    flex-shrink: 0;
+                  }
+                }
+              }
+            }
+            .frame-790-7Cs {
+              width: 100%;
+              display: flex;
+              flex-direction: column;
+
+              .frame-785-4to {
+                margin-bottom: 4.8rem;
+                display: flex;
+                flex-direction: column;
+                flex-shrink: 0;
+
+                .text-Dmh {
+                  color: #1c2024;
+                  white-space: nowrap;
+                  flex-shrink: 0;
+                  margin-bottom: 1.6rem;
+                  letter-spacing: 0.0144rem;
+                  line-height: 1.3333333333;
+                  font-family: Open Sans, 'Source Sans Pro';
+                  font-size: 2.4rem;
+                  font-weight: 600;
+                }
+                .text-g9V {
+                  color: #60646c;
+                  font-family: Open Sans, 'Source Sans Pro';
+                  white-space: nowrap;
+                  flex-shrink: 0;
+                  font-size: 1.6rem;
+                  font-weight: 400;
+                  line-height: 1.5;
+                }
+              }
+              .frame-789-pWb {
+                height: 24.4rem;
+                position: relative;
+                flex-shrink: 0;
+                margin-bottom: 0.4rem;
+                width: 100%;
+
+                .text-input-floating-label-mgj {
+                  position: absolute;
+                  left: 0;
+                  top: 0;
+                  width: 79.2rem;
+                  height: 8.4rem;
+
+                  .input-gHu {
+                    width: 100%;
+                    position: relative;
+                    border: solid 0.1rem #b9bbc6;
+                    margin-bottom: 0.8rem;
+                    padding: 1.7rem 1.6rem;
+                    overflow: hidden;
+                    background-color: #ffffff;
+                    border-radius: 1.6rem;
+                    box-sizing: border-box;
+                    height: 5.6rem;
+
+                    .auto-group-dnqu-Pi7 {
+                      height: 100%;
+                      position: relative;
+                      width: 8.5rem;
+
+                      .text-Yqu {
+                        font-family: Open Sans, 'Source Sans Pro';
+                        width: 3.2rem;
+                        position: absolute;
+                        left: 0;
+                        top: 0;
+                        display: flex;
+                        font-weight: 400;
+                        color: #60646c;
+                        height: 2.2rem;
+                        font-size: 1.6rem;
+                        line-height: 1.375;
+                        white-space: nowrap;
+                      }
+                      .value-gSK {
+                        top: 0;
+                        display: flex;
+                        align-items: center;
+                        width: 8.5rem;
+                        height: 2.2rem;
+                        position: absolute;
+                        left: 0;
+
+                        .text-q4K {
+                          display: flex;
+                          font-size: 1.6rem;
+                          font-weight: 400;
+                          line-height: 1.375;
+                          color: #7e808a;
+                          margin-right: 0.4rem;
+                          font-family: Open Sans, 'Source Sans Pro';
+                          white-space: nowrap;
+                          flex-shrink: 0;
+                        }
+                        .item--xud {
+                          font-size: 1.4rem;
+                          font-weight: 600;
+                          line-height: 1.4285714286;
+                          color: #c62a2f;
+                          font-family: Open Sans, 'Source Sans Pro';
+                          white-space: nowrap;
+                          flex-shrink: 0;
+                        }
+                      }
+                    }
+                  }
+                  .hint-text-g4w {
+                    color: #60646c;
+                    font-family: Open Sans, 'Source Sans Pro';
+                    white-space: nowrap;
+                    display: flex;
+                    font-size: 1.4rem;
+                    font-weight: 400;
+                    line-height: 1.4285714286;
+                  }
+                }
+                .frame-787-NiT {
+                  width: 83.1rem;
+                  height: 8.4rem;
+                  position: absolute;
+                  left: 0;
+                  top: 8rem;
+                  display: flex;
+                  align-items: center;
+
+                  .select-floating-label-7g3 {
+                    height: 100%;
+                    flex-shrink: 0;
+                    margin-right: 2.4rem;
+                    width: 38.4rem;
+
+                    .input-fSf {
+                      height: 5.6rem;
+                      overflow: hidden;
+                      position: relative;
+                      margin-bottom: 0.8rem;
+                      padding: 1.7rem 2.081rem 1.7rem 1.988rem;
+                      width: 100%;
+                      display: flex;
+                      align-items: center;
+                      border: solid 0.1rem #b9bbc6;
+                      background-color: #ffffff;
+                      border-radius: 1.6rem;
+                      box-sizing: border-box;
+
+                      .input-add-on-ivj {
+                        object-fit: contain;
+                        vertical-align: top;
+                        flex-shrink: 0;
+                        margin: 0rem 1.387rem 0rem 0rem;
+                        width: 1.625rem;
+                        height: 1.625rem;
+                      }
+                      .value-EeB {
+                        margin-right: 18.681rem;
+                        height: 100%;
+                        display: flex;
+                        align-items: center;
+                        flex-shrink: 0;
+
+                        .text-bDq {
+                          display: flex;
+                          font-size: 1.6rem;
+                          line-height: 1.375;
+                          white-space: nowrap;
+                          margin-right: 0.4rem;
+                          font-weight: 400;
+                          color: #7e808a;
+                          font-family: Open Sans, 'Source Sans Pro';
+                          flex-shrink: 0;
+                        }
+                        .item--5uh {
+                          color: #c62a2f;
+                          font-family: Open Sans, 'Source Sans Pro';
+                          white-space: nowrap;
+                          flex-shrink: 0;
+                          font-size: 1.4rem;
+                          font-weight: 600;
+                          line-height: 1.4285714286;
+                        }
+                      }
+                      .input-add-on-2a3 {
+                        margin-top: 0.1248rem;
+                        width: 1.438rem;
+                        height: 0.813rem;
+                        object-fit: contain;
+                        vertical-align: top;
+                        flex-shrink: 0;
+                      }
+                    }
+                    .hint-text-9Pm {
+                      display: flex;
+                      font-size: 1.4rem;
+                      font-weight: 400;
+                      line-height: 1.4285714286;
+                      color: #60646c;
+                      font-family: Open Sans, 'Source Sans Pro';
+                      white-space: nowrap;
+                    }
+                  }
+                  .text-input-floating-label-VTd {
+                    height: 100%;
+                    display: flex;
+                    flex-direction: column;
+                    flex-shrink: 0;
+
+                    .input-rJB {
+                      border-radius: 1.6rem;
+                      flex-shrink: 0;
+                      box-sizing: border-box;
+                      padding: 1.7rem 1.6rem;
+                      width: 38.4rem;
+                      height: 5.6rem;
+                      background-color: #ffffff;
+                      margin-bottom: 0.8rem;
+                      overflow: hidden;
+                      position: relative;
+                      border: solid 0.1rem #b9bbc6;
+
+                      .auto-group-ehlb-BrF {
+                        width: 12.4rem;
+                        height: 100%;
+                        position: relative;
+
+                        .text-X9R {
+                          top: 0;
+                          display: flex;
+                          font-weight: 400;
+                          font-family: Open Sans, 'Source Sans Pro';
+                          height: 2.2rem;
+                          left: 0;
+                          font-size: 1.6rem;
+                          line-height: 1.375;
+                          color: #60646c;
+                          white-space: nowrap;
+                          width: 3.2rem;
+                          position: absolute;
+                        }
+                        .value-FLK {
+                          position: absolute;
+                          left: 0;
+                          top: 0;
+                          display: flex;
+                          align-items: center;
+                          width: 12.4rem;
+                          height: 2.2rem;
+
+                          .text-nb9 {
+                            display: flex;
+                            line-height: 1.375;
+                            color: #7e808a;
+                            white-space: nowrap;
+                            flex-shrink: 0;
+                            margin-right: 0.4rem;
+                            font-size: 1.6rem;
+                            font-weight: 400;
+                            font-family: Open Sans, 'Source Sans Pro';
+                          }
+                          .item--vxF {
+                            font-size: 1.4rem;
+                            font-weight: 600;
+                            line-height: 1.4285714286;
+                            color: #c62a2f;
+                            font-family: Open Sans, 'Source Sans Pro';
+                            white-space: nowrap;
+                            flex-shrink: 0;
+                          }
+                        }
+                      }
+                    }
+                    .hint-text-FUj {
+                      font-size: 1.4rem;
+                      font-weight: 400;
+                      line-height: 1.4285714286;
+                      color: #60646c;
+                      font-family: Open Sans, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      display: flex;
+                    }
+                  }
+                }
+                .frame-788-zhD {
+                  position: absolute;
+                  left: 0;
+                  top: 16rem;
+                  display: flex;
+                  align-items: center;
+                  width: 79.2rem;
+                  height: 8.4rem;
+
+                  .text-input-floating-label-YTq {
+                    margin-right: 2.4rem;
+                    width: 38.4rem;
+                    height: 100%;
+                    flex-shrink: 0;
+
+                    .input-4BH {
+                      height: 5.6rem;
+                      overflow: hidden;
+                      position: relative;
+                      border-radius: 1.6rem;
+                      margin-bottom: 0.8rem;
+                      width: 100%;
+                      border: solid 0.1rem #b9bbc6;
+                      background-color: #ffffff;
+                      box-sizing: border-box;
+                      padding: 1.7rem 1.6rem;
+
+                      .auto-group-rtab-oPm {
+                        height: 100%;
+                        position: relative;
+                        width: 5.3rem;
+
+                        .text-m5h {
+                          left: 0;
+                          display: flex;
+                          font-size: 1.6rem;
+                          font-weight: 400;
+                          color: #60646c;
+                          white-space: nowrap;
+                          height: 2.2rem;
+                          position: absolute;
+                          line-height: 1.375;
+                          font-family: Open Sans, 'Source Sans Pro';
+                          width: 3.2rem;
+                          top: 0;
+                        }
+                        .value-5MH {
+                          height: 2.2rem;
+                          position: absolute;
+                          left: 0;
+                          top: 0;
+                          display: flex;
+                          align-items: center;
+                          width: 5.3rem;
+
+                          .text-2XR {
+                            display: flex;
+                            line-height: 1.375;
+                            margin-right: 0.4rem;
+                            font-weight: 400;
+                            color: #7e808a;
+                            font-family: Open Sans, 'Source Sans Pro';
+                            white-space: nowrap;
+                            flex-shrink: 0;
+                            font-size: 1.6rem;
+                          }
+                          .item--NbH {
+                            line-height: 1.4285714286;
+                            color: #c62a2f;
+                            font-family: Open Sans, 'Source Sans Pro';
+                            white-space: nowrap;
+                            flex-shrink: 0;
+                            font-size: 1.4rem;
+                            font-weight: 600;
+                          }
+                        }
+                      }
+                    }
+                    .hint-text-U8X {
+                      font-family: Open Sans, 'Source Sans Pro';
+                      white-space: nowrap;
+                      display: flex;
+                      font-size: 1.4rem;
+                      font-weight: 400;
+                      line-height: 1.4285714286;
+                      color: #60646c;
+                    }
+                  }
+                  .text-input-floating-label-ujd {
+                    width: 38.4rem;
+                    height: 100%;
+                    flex-shrink: 0;
+
+                    .input-sRZ {
+                      box-sizing: border-box;
+                      position: relative;
+                      background-color: #ffffff;
+                      margin-bottom: 0.8rem;
+                      padding: 1.7rem 1.6rem;
+                      width: 100%;
+                      height: 5.6rem;
+                      overflow: hidden;
+                      border: solid 0.1rem #b9bbc6;
+                      border-radius: 1.6rem;
+
+                      .auto-group-qhy1-Cyd {
+                        width: 11.8rem;
+                        height: 100%;
+                        position: relative;
+
+                        .text-ZpB {
+                          position: absolute;
+                          display: flex;
+                          font-size: 1.6rem;
+                          font-weight: 400;
+                          color: #60646c;
+                          width: 3.2rem;
+                          height: 2.2rem;
+                          left: 0;
+                          top: 0;
+                          line-height: 1.375;
+                          font-family: Open Sans, 'Source Sans Pro';
+                          white-space: nowrap;
+                        }
+                        .value-uNF {
+                          height: 2.2rem;
+                          position: absolute;
+                          left: 0;
+                          top: 0;
+                          display: flex;
+                          align-items: center;
+                          width: 11.8rem;
+
+                          .text-2xf {
+                            color: #7e808a;
+                            font-family: Open Sans, 'Source Sans Pro';
+                            flex-shrink: 0;
+                            display: flex;
+                            font-size: 1.6rem;
+                            font-weight: 400;
+                            margin-right: 0.4rem;
+                            line-height: 1.375;
+                            white-space: nowrap;
+                          }
+                          .item--nB9 {
+                            font-size: 1.4rem;
+                            font-weight: 600;
+                            line-height: 1.4285714286;
+                            color: #c62a2f;
+                            font-family: Open Sans, 'Source Sans Pro';
+                            white-space: nowrap;
+                            flex-shrink: 0;
+                          }
+                        }
+                      }
+                    }
+                    .hint-text-Gc7 {
+                      line-height: 1.4285714286;
+                      color: #60646c;
+                      font-family: Open Sans, 'Source Sans Pro';
+                      white-space: nowrap;
+                      display: flex;
+                      font-size: 1.4rem;
+                      font-weight: 400;
+                    }
+                  }
+                }
+              }
+              .divider-cfy {
+                vertical-align: top;
+                flex-shrink: 0;
+                width: 79.2rem;
+                height: 0.1rem;
+                object-fit: contain;
+              }
+            }
+            .auto-group-cvpq-AhV {
+              box-sizing: border-box;
+              padding-top: 9.6rem;
+              width: 100%;
+              row-gap: 6.3rem;
+              display: flex;
+              flex-direction: column;
+
+              .frame-791-7Mq {
+                width: 79.2rem;
+                flex-shrink: 0;
+
+                .frame-785-raK {
+                  margin-bottom: 4.8rem;
+                  display: flex;
+                  flex-direction: column;
+
+                  .text-Dfm {
+                    line-height: 1.3333333333;
+                    letter-spacing: 0.0144rem;
+                    color: #1c2024;
+                    flex-shrink: 0;
+                    white-space: nowrap;
+                    margin-bottom: 1.6rem;
+                    font-size: 2.4rem;
+                    font-weight: 600;
+                    font-family: Open Sans, 'Source Sans Pro';
+                  }
+                  .text-8Xq {
+                    line-height: 1.5;
+                    color: #60646c;
+                    font-family: Open Sans, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    font-size: 1.6rem;
+                    font-weight: 400;
+                  }
+                }
+                .frame-789-Urb {
+                  margin-bottom: 0.4rem;
+                  width: 100%;
+                  height: 16.4rem;
+                  position: relative;
+
+                  .frame-787-391 {
+                    align-items: center;
+                    width: 79.2rem;
+                    height: 8.4rem;
+                    position: absolute;
+                    left: 0;
+                    top: 0;
+                    display: flex;
+
+                    .text-input-floating-label-AjR {
+                      margin-right: 2.4rem;
+                      width: 38.4rem;
+                      height: 100%;
+                      flex-shrink: 0;
+
+                      .input-ikw {
+                        border: solid 0.1rem #b9bbc6;
+                        background-color: #ffffff;
+                        border-radius: 1.6rem;
+                        box-sizing: border-box;
+                        padding: 1.7rem 1.6rem;
+                        width: 100%;
+                        position: relative;
+                        margin-bottom: 0.8rem;
+                        height: 5.6rem;
+                        overflow: hidden;
+
+                        .auto-group-y4pz-rs9 {
+                          width: 9.2rem;
+                          height: 100%;
+                          position: relative;
+
+                          .text-2Fq {
+                            width: 3.2rem;
+                            height: 2.2rem;
+                            position: absolute;
+                            left: 0;
+                            display: flex;
+                            color: #60646c;
+                            top: 0;
+                            font-size: 1.6rem;
+                            font-weight: 400;
+                            line-height: 1.375;
+                            font-family: Open Sans, 'Source Sans Pro';
+                            white-space: nowrap;
+                          }
+                          .value-YEB {
+                            align-items: center;
+                            width: 9.2rem;
+                            height: 2.2rem;
+                            position: absolute;
+                            left: 0;
+                            top: 0;
+                            display: flex;
+
+                            .text-U7q {
+                              font-size: 1.6rem;
+                              font-weight: 400;
+                              white-space: nowrap;
+                              color: #7e808a;
+                              font-family: Open Sans, 'Source Sans Pro';
+                              flex-shrink: 0;
+                              margin-right: 0.4rem;
+                              display: flex;
+                              line-height: 1.375;
+                            }
+                            .item--D5R {
+                              font-family: Open Sans, 'Source Sans Pro';
+                              white-space: nowrap;
+                              flex-shrink: 0;
+                              font-size: 1.4rem;
+                              font-weight: 600;
+                              line-height: 1.4285714286;
+                              color: #c62a2f;
+                            }
+                          }
+                        }
+                      }
+                      .hint-text-Un3 {
+                        white-space: nowrap;
+                        display: flex;
+                        font-size: 1.4rem;
+                        font-weight: 400;
+                        line-height: 1.4285714286;
+                        color: #60646c;
+                        font-family: Open Sans, 'Source Sans Pro';
+                      }
+                    }
+                    .select-floating-label-8rb {
+                      width: 38.4rem;
+                      height: 100%;
+                      flex-shrink: 0;
+
+                      .input-Xdq {
+                        box-sizing: border-box;
+                        align-items: center;
+                        background-color: #ffffff;
+                        overflow: hidden;
+                        position: relative;
+                        display: flex;
+                        border: solid 0.1rem #b9bbc6;
+                        margin-bottom: 0.8rem;
+                        padding: 1.7rem 2.081rem 1.7rem 1.6rem;
+                        width: 100%;
+                        height: 5.6rem;
+                        border-radius: 1.6rem;
+
+                        .auto-group-mf8t-NuM {
+                          position: relative;
+                          flex-shrink: 0;
+                          margin-right: 27.581rem;
+                          width: 5.7rem;
+                          height: 100%;
+
+                          .text-JHD {
+                            height: 2.2rem;
+                            width: 3.2rem;
+                            left: 0;
+                            top: 0;
+                            display: flex;
+                            font-size: 1.6rem;
+                            font-weight: 400;
+                            line-height: 1.375;
+                            color: #60646c;
+                            position: absolute;
+                            white-space: nowrap;
+                            font-family: Open Sans, 'Source Sans Pro';
+                          }
+                          .value-dKV {
+                            top: 0;
+                            display: flex;
+                            align-items: center;
+                            width: 5.7rem;
+                            height: 2.2rem;
+                            position: absolute;
+                            left: 0;
+
+                            .text-mwV {
+                              display: flex;
+                              font-weight: 400;
+                              color: #7e808a;
+                              margin-right: 0.4rem;
+                              font-size: 1.6rem;
+                              line-height: 1.375;
+                              font-family: Open Sans, 'Source Sans Pro';
+                              white-space: nowrap;
+                              flex-shrink: 0;
+                            }
+                            .item--fmy {
+                              font-family: Open Sans, 'Source Sans Pro';
+                              white-space: nowrap;
+                              flex-shrink: 0;
+                              font-size: 1.4rem;
+                              font-weight: 600;
+                              line-height: 1.4285714286;
+                              color: #c62a2f;
+                            }
+                          }
+                        }
+                        .input-add-on-cSK {
+                          margin-top: 0.1248rem;
+                          width: 1.438rem;
+                          height: 0.813rem;
+                          object-fit: contain;
+                          vertical-align: top;
+                          flex-shrink: 0;
+                        }
+                      }
+                      .hint-text-uRR {
+                        font-family: Open Sans, 'Source Sans Pro';
+                        white-space: nowrap;
+                        display: flex;
+                        font-size: 1.4rem;
+                        font-weight: 400;
+                        line-height: 1.4285714286;
+                        color: #60646c;
+                      }
+                    }
+                  }
+                  .select-floating-label-3nX {
+                    width: 79.2rem;
+                    height: 8.4rem;
+                    position: absolute;
+                    left: 0;
+                    top: 8rem;
+
+                    .input-a1m {
+                      background-color: #ffffff;
+                      padding: 1.7rem 2.081rem 1.7rem 1.6rem;
+                      display: flex;
+                      border: solid 0.1rem #b9bbc6;
+                      height: 5.6rem;
+                      overflow: hidden;
+                      position: relative;
+                      align-items: center;
+                      border-radius: 1.6rem;
+                      margin-bottom: 0.8rem;
+                      box-sizing: border-box;
+                      width: 100%;
+
+                      .auto-group-k4wh-3AF {
+                        margin-right: 64.681rem;
+                        width: 9.4rem;
+                        height: 100%;
+                        position: relative;
+                        flex-shrink: 0;
+
+                        .text-zLP {
+                          display: flex;
+                          line-height: 1.375;
+                          top: 0;
+                          font-size: 1.6rem;
+                          font-weight: 400;
+                          color: #60646c;
+                          width: 3.2rem;
+                          height: 2.2rem;
+                          position: absolute;
+                          left: 0;
+                          font-family: Open Sans, 'Source Sans Pro';
+                          white-space: nowrap;
+                        }
+                        .value-7fu {
+                          width: 9.4rem;
+                          height: 2.2rem;
+                          position: absolute;
+                          left: 0;
+                          top: 0;
+                          display: flex;
+                          align-items: center;
+
+                          .text-56w {
+                            font-size: 1.6rem;
+                            font-weight: 400;
+                            color: #7e808a;
+                            font-family: Open Sans, 'Source Sans Pro';
+                            white-space: nowrap;
+                            flex-shrink: 0;
+                            margin-right: 0.5rem;
+                            display: flex;
+                            line-height: 1.375;
+                          }
+                          .item--zjh {
+                            flex-shrink: 0;
+                            font-size: 1.4rem;
+                            font-weight: 600;
+                            line-height: 1.4285714286;
+                            color: #c62a2f;
+                            font-family: Open Sans, 'Source Sans Pro';
+                            white-space: nowrap;
+                          }
+                        }
+                      }
+                      .input-add-on-LoZ {
+                        margin-top: 0.1248rem;
+                        width: 1.438rem;
+                        height: 0.813rem;
+                        object-fit: contain;
+                        vertical-align: top;
+                        flex-shrink: 0;
+                      }
+                    }
+                    .hint-text-4Uf {
+                      display: flex;
+                      font-size: 1.4rem;
+                      font-weight: 400;
+                      line-height: 1.4285714286;
+                      color: #60646c;
+                      font-family: Open Sans, 'Source Sans Pro';
+                      white-space: nowrap;
+                    }
+                  }
+                }
+                .divider-C55 {
+                  width: 79.2rem;
+                  height: 0.1rem;
+                  object-fit: contain;
+                  vertical-align: top;
+                }
+              }
+              .frame-802-Lwy {
+                width: 79.2rem;
+                flex-shrink: 0;
+
+                .frame-785-tCo {
+                  margin-bottom: 4.8rem;
+                  display: flex;
+                  flex-direction: column;
+
+                  .text-Sk7 {
+                    font-weight: 600;
+                    letter-spacing: 0.0144rem;
+                    font-family: Open Sans, 'Source Sans Pro';
+                    margin-bottom: 1.6rem;
+                    font-size: 2.4rem;
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    line-height: 1.3333333333;
+                    color: #1c2024;
+                  }
+                  .text-Y2T {
+                    flex-shrink: 0;
+                    font-size: 1.6rem;
+                    font-weight: 400;
+                    line-height: 1.5;
+                    color: #60646c;
+                    font-family: Open Sans, 'Source Sans Pro';
+                    white-space: nowrap;
+                  }
+                }
+                .frame-805-VTV {
+                  align-items: center;
+                  display: flex;
+                  flex-direction: column;
+                  margin-bottom: 3.2rem;
+                  width: 100%;
+                  row-gap: 2rem;
+
+                  .payment-method-qXM {
+                    width: 100%;
+                    flex-direction: column;
+                    border: solid 0.1rem #1c2024;
+                    background-color: #ffffff;
+                    flex-shrink: 0;
+                    box-sizing: border-box;
+                    display: flex;
+                    border-radius: 1.6rem;
+                    padding: 2.8rem 2.4rem 0rem 2.4rem;
+
+                    .frame-800-voh {
+                      width: 100%;
+                      height: 2.4rem;
+                      display: flex;
+                      align-items: center;
+                      flex-shrink: 0;
+                      margin-bottom: 3.2rem;
+
+                      .frame-799-HPM {
+                        flex-shrink: 0;
+                        margin: 0.1rem 52.7rem 0.1rem 0rem;
+                        height: calc(100% - 0.2rem);
+                        display: flex;
+                        align-items: center;
+
+                        .input-add-on-zYf {
+                          margin-right: 1.2rem;
+                          width: 3.5rem;
+                          height: 2rem;
+                          object-fit: contain;
+                          vertical-align: top;
+                          flex-shrink: 0;
+                        }
+                        .credit-debit-card-ijZ {
+                          flex-shrink: 0;
+                          font-size: 1.6rem;
+                          font-weight: 600;
+                          line-height: 1.375;
+                          color: #1c2024;
+                          font-family: Open Sans, 'Source Sans Pro';
+                          white-space: nowrap;
+                        }
+                      }
+                      .radio-f91 {
+                        height: 2.4rem;
+                        object-fit: contain;
+                        vertical-align: top;
+                        border-radius: 100rem;
+                        flex-shrink: 0;
+                        width: 2.4rem;
+                      }
+                    }
+                    .logos-c4F {
+                      flex-shrink: 0;
+                      margin-bottom: 3.2rem;
+                      display: flex;
+                      column-gap: 0.8rem;
+                      align-items: center;
+
+                      .visa-XBD {
+                        height: 2rem;
+                        object-fit: contain;
+                        vertical-align: top;
+                        border-radius: 0.4rem;
+                        flex-shrink: 0;
+                        width: 3.5rem;
+                      }
+                      .mastercard-TKm {
+                        flex-shrink: 0;
+                        width: 3.5rem;
+                        height: 2rem;
+                        object-fit: contain;
+                        vertical-align: top;
+                        border-radius: 0.4rem;
+                      }
+                      .diners-club-ncw {
+                        width: 3.5rem;
+                        height: 2rem;
+                        object-fit: contain;
+                        vertical-align: top;
+                        border-radius: 0.4rem;
+                        flex-shrink: 0;
+                      }
+                    }
+                    .frame-801-8go {
+                      width: 100%;
+                      align-items: center;
+                      display: flex;
+                      flex-direction: column;
+                      flex-shrink: 0;
+                      margin-bottom: 0.4rem;
+
+                      .frame-787-tfy {
+                        height: 8.4rem;
+                        display: flex;
+                        align-items: center;
+                        flex-shrink: 0;
+                        width: 100%;
+
+                        .text-input-floating-label-q5R {
+                          margin-right: 2.4rem;
+                          width: 36rem;
+                          height: 100%;
+                          flex-shrink: 0;
+
+                          .input-nFZ {
+                            box-sizing: border-box;
+                            padding: 1.7rem 1.6rem;
+                            width: 100%;
+                            height: 5.6rem;
+                            border: solid 0.1rem #b9bbc6;
+                            background-color: #ffffff;
+                            border-radius: 1.6rem;
+                            margin-bottom: 0.8rem;
+                            overflow: hidden;
+                            position: relative;
+
+                            .auto-group-gxoh-84X {
+                              width: 11.8rem;
+                              height: 100%;
+                              position: relative;
+
+                              .text-TsV {
+                                font-family: Open Sans, 'Source Sans Pro';
+                                position: absolute;
+                                left: 0;
+                                top: 0;
+                                font-weight: 400;
+                                color: #60646c;
+                                white-space: nowrap;
+                                width: 3.2rem;
+                                height: 2.2rem;
+                                display: flex;
+                                font-size: 1.6rem;
+                                line-height: 1.375;
+                              }
+                              .value-bTu {
+                                top: 0;
+                                display: flex;
+                                align-items: center;
+                                width: 11.8rem;
+                                height: 2.2rem;
+                                position: absolute;
+                                left: 0;
+
+                                .text-x3Z {
+                                  font-family: Open Sans, 'Source Sans Pro';
+                                  white-space: nowrap;
+                                  flex-shrink: 0;
+                                  margin-right: 0.4rem;
+                                  display: flex;
+                                  font-size: 1.6rem;
+                                  font-weight: 400;
+                                  line-height: 1.375;
+                                  color: #7e808a;
+                                }
+                                .item--VZH {
+                                  white-space: nowrap;
+                                  flex-shrink: 0;
+                                  font-size: 1.4rem;
+                                  font-weight: 600;
+                                  line-height: 1.4285714286;
+                                  color: #c62a2f;
+                                  font-family: Open Sans, 'Source Sans Pro';
+                                }
+                              }
+                            }
+                          }
+                          .hint-text-b6X {
+                            display: flex;
+                            font-size: 1.4rem;
+                            font-weight: 400;
+                            line-height: 1.4285714286;
+                            color: #60646c;
+                            font-family: Open Sans, 'Source Sans Pro';
+                            white-space: nowrap;
+                          }
+                        }
+                        .text-input-floating-label-jyR {
+                          width: 36rem;
+                          height: 100%;
+                          flex-shrink: 0;
+
+                          .input-spj {
+                            display: flex;
+                            align-items: center;
+                            border: solid 0.1rem #b9bbc6;
+                            border-radius: 1.6rem;
+                            margin-bottom: 0.8rem;
+                            width: 100%;
+                            overflow: hidden;
+                            position: relative;
+                            background-color: #ffffff;
+                            box-sizing: border-box;
+                            padding: 1.7rem 18.7rem 1.7rem 1.6rem;
+                            height: 5.6rem;
+
+                            .input-add-on-oCb {
+                              margin-right: 1rem;
+                              width: 3.5rem;
+                              height: 2rem;
+                              object-fit: contain;
+                              vertical-align: top;
+                              flex-shrink: 0;
+                            }
+                            .value-vo1 {
+                              height: 100%;
+                              display: flex;
+                              align-items: center;
+                              flex-shrink: 0;
+
+                              .text-6Sb {
+                                white-space: nowrap;
+                                margin-right: 0.4rem;
+                                font-weight: 400;
+                                line-height: 1.375;
+                                color: #7e808a;
+                                font-family: Open Sans, 'Source Sans Pro';
+                                display: flex;
+                                font-size: 1.6rem;
+                                flex-shrink: 0;
+                              }
+                              .item--DXD {
+                                font-weight: 600;
+                                line-height: 1.4285714286;
+                                color: #c62a2f;
+                                font-family: Open Sans, 'Source Sans Pro';
+                                white-space: nowrap;
+                                flex-shrink: 0;
+                                font-size: 1.4rem;
+                              }
+                            }
+                          }
+                          .hint-text-XH1 {
+                            font-size: 1.4rem;
+                            font-weight: 400;
+                            line-height: 1.4285714286;
+                            color: #60646c;
+                            font-family: Open Sans, 'Source Sans Pro';
+                            white-space: nowrap;
+                            display: flex;
+                          }
+                        }
+                      }
+                      .frame-789-fe7 {
+                        width: 100%;
+                        height: 8.4rem;
+                        display: flex;
+                        align-items: center;
+                        flex-shrink: 0;
+
+                        .text-input-floating-label-Dfd {
+                          flex-shrink: 0;
+                          margin-right: 2.4rem;
+                          width: 36rem;
+                          height: 100%;
+
+                          .input-NYX {
+                            overflow: hidden;
+                            position: relative;
+                            border: solid 0.1rem #b9bbc6;
+                            padding: 1.7rem 1.6rem;
+                            height: 5.6rem;
+                            width: 100%;
+                            background-color: #ffffff;
+                            border-radius: 1.6rem;
+                            margin-bottom: 0.8rem;
+                            box-sizing: border-box;
+
+                            .auto-group-7tp5-tmm {
+                              height: 100%;
+                              position: relative;
+                              width: 9.6rem;
+
+                              .text-ekw {
+                                left: 0;
+                                display: flex;
+                                font-weight: 400;
+                                font-family: Open Sans, 'Source Sans Pro';
+                                white-space: nowrap;
+                                position: absolute;
+                                height: 2.2rem;
+                                top: 0;
+                                font-size: 1.6rem;
+                                line-height: 1.375;
+                                color: #60646c;
+                                width: 3.2rem;
+                              }
+                              .value-wzw {
+                                height: 2.2rem;
+                                position: absolute;
+                                left: 0;
+                                top: 0;
+                                display: flex;
+                                align-items: center;
+                                width: 9.6rem;
+
+                                .text-78j {
+                                  display: flex;
+                                  line-height: 1.375;
+                                  color: #7e808a;
+                                  flex-shrink: 0;
+                                  margin-right: 0.4rem;
+                                  font-size: 1.6rem;
+                                  font-weight: 400;
+                                  font-family: Open Sans, 'Source Sans Pro';
+                                  white-space: nowrap;
+                                }
+                                .item--q4j {
+                                  flex-shrink: 0;
+                                  font-size: 1.4rem;
+                                  font-weight: 600;
+                                  line-height: 1.4285714286;
+                                  color: #c62a2f;
+                                  font-family: Open Sans, 'Source Sans Pro';
+                                  white-space: nowrap;
+                                }
+                              }
+                            }
+                          }
+                          .hint-text-MHy {
+                            line-height: 1.4285714286;
+                            color: #60646c;
+                            font-family: Open Sans, 'Source Sans Pro';
+                            white-space: nowrap;
+                            display: flex;
+                            font-size: 1.4rem;
+                            font-weight: 400;
+                          }
+                        }
+                        .text-input-floating-label-Gvj {
+                          width: 36rem;
+                          height: 100%;
+                          flex-shrink: 0;
+
+                          .input-dmH {
+                            margin-bottom: 0.8rem;
+                            padding: 1.7rem 1.6rem;
+                            width: 100%;
+                            height: 5.6rem;
+                            overflow: hidden;
+                            border-radius: 1.6rem;
+                            box-sizing: border-box;
+                            position: relative;
+                            border: solid 0.1rem #b9bbc6;
+                            background-color: #ffffff;
+
+                            .auto-group-k59z-Nym {
+                              width: 9.6rem;
+                              height: 100%;
+                              position: relative;
+
+                              .text-WKH {
+                                line-height: 1.375;
+                                width: 3.2rem;
+                                height: 2.2rem;
+                                position: absolute;
+                                left: 0;
+                                display: flex;
+                                white-space: nowrap;
+                                top: 0;
+                                font-size: 1.6rem;
+                                font-weight: 400;
+                                color: #60646c;
+                                font-family: Open Sans, 'Source Sans Pro';
+                              }
+                              .value-F1y {
+                                width: 9.6rem;
+                                height: 2.2rem;
+                                position: absolute;
+                                left: 0;
+                                top: 0;
+                                display: flex;
+                                align-items: center;
+
+                                .text-CT1 {
+                                  margin-right: 0.4rem;
+                                  display: flex;
+                                  font-size: 1.6rem;
+                                  line-height: 1.375;
+                                  font-family: Open Sans, 'Source Sans Pro';
+                                  flex-shrink: 0;
+                                  font-weight: 400;
+                                  color: #7e808a;
+                                  white-space: nowrap;
+                                }
+                                .item--wvP {
+                                  line-height: 1.4285714286;
+                                  color: #c62a2f;
+                                  font-family: Open Sans, 'Source Sans Pro';
+                                  white-space: nowrap;
+                                  flex-shrink: 0;
+                                  font-size: 1.4rem;
+                                  font-weight: 600;
+                                }
+                              }
+                            }
+                          }
+                          .hint-text-GSs {
+                            display: flex;
+                            font-size: 1.4rem;
+                            font-weight: 400;
+                            line-height: 1.4285714286;
+                            color: #60646c;
+                            font-family: Open Sans, 'Source Sans Pro';
+                            white-space: nowrap;
+                          }
+                        }
+                      }
+                    }
+                    .frame-975-MjD {
+                      display: flex;
+                      flex-direction: column;
+                      border: solid 0.1rem #dddde3;
+                      flex-shrink: 0;
+                      box-sizing: border-box;
+                      padding: 1.6rem 0rem 3.2rem 0rem;
+                      width: 100%;
+
+                      .frame-974-uEw {
+                        width: 100%;
+                        display: flex;
+                        flex-direction: column;
+                        flex-shrink: 0;
+                        margin-bottom: 3.2rem;
+
+                        .frame-804-Pvo {
+                          display: flex;
+                          align-items: center;
+                          flex-shrink: 0;
+                          margin-bottom: 0.6rem;
+                          width: 100%;
+
+                          .frame-956-9uy {
+                            margin: 0rem 44rem 0.4rem 0rem;
+                            display: flex;
+                            align-items: center;
+                            flex-shrink: 0;
+
+                            .text-767 {
+                              margin-right: 0.6rem;
+                              font-size: 1.8rem;
+                              font-weight: 600;
+                              line-height: 1.4444444444;
+                              color: #1c2024;
+                              font-family: Open Sans, 'Source Sans Pro';
+                              white-space: nowrap;
+                              flex-shrink: 0;
+                            }
+                            .text-41M {
+                              text-align: right;
+                              font-size: 1.8rem;
+                              font-weight: 600;
+                              line-height: 1.4444444444;
+                              color: #1c2024;
+                              font-family: Open Sans, 'Source Sans Pro';
+                              white-space: nowrap;
+                              flex-shrink: 0;
+                            }
+                          }
+                          .badge-mwM {
+                            display: flex;
+                            align-items: center;
+                            background-color: #299764;
+                            box-sizing: border-box;
+                            height: 2.6rem;
+                            border-radius: 100rem;
+                            flex-shrink: 0;
+                            margin-top: 0.4rem;
+                            padding: 0.4rem 0.8rem;
+
+                            .piggybank-7kK {
+                              margin: 0rem 0.444rem 0rem 0rem;
+                              width: 1.3563rem;
+                              height: 1.0496rem;
+                              object-fit: contain;
+                              vertical-align: top;
+                              flex-shrink: 0;
+                            }
+                            .auto-group-sb67-dTm {
+                              font-weight: 600;
+                              font-family: Open Sans, 'Source Sans Pro';
+                              align-items: center;
+                              flex-shrink: 0;
+                              width: 9.8rem;
+                              height: 100%;
+                              font-size: 1.2rem;
+                              white-space: nowrap;
+                              justify-content: center;
+                              display: flex;
+                              line-height: 1.5;
+                              color: #e9f9ee;
+                            }
+                          }
+                        }
+                        .link-JZu {
+                          display: flex;
+                          align-items: center;
+                          flex-shrink: 0;
+                          margin-right: 56.75rem;
+                          width: calc(100% - 56.75rem);
+                          height: 1.8rem;
+                          overflow: hidden;
+                          position: relative;
+
+                          .auto-group-xgyf-Sw1 {
+                            font-weight: 600;
+                            align-items: center;
+                            justify-content: center;
+                            display: flex;
+                            flex-shrink: 0;
+                            width: 15.3rem;
+                            text-decoration-line: underline;
+                            color: #60646c;
+                            font-family: Open Sans, 'Source Sans Pro';
+                            margin-right: 1.05rem;
+                            font-size: 1.2rem;
+                            line-height: 1.5;
+                            white-space: nowrap;
+                            height: 100%;
+                          }
+                          .info-JiK {
+                            vertical-align: top;
+                            flex-shrink: 0;
+                            margin-top: 0rem;
+                            width: 1.3rem;
+                            height: 1.3rem;
+                            object-fit: contain;
+                          }
+                        }
+                      }
+                      .frame-805-enB {
+                        width: 57.4rem;
+                        flex-shrink: 0;
+
+                        .by-clicking-confirm-pay-you-agree-to-ticketes-general-terms-and-conditions-and-cancellation-policy-1sd {
+                          align-items: baseline;
+                          font-weight: 400;
+                          font-family: Open Sans, 'Source Sans Pro';
+                          white-space: nowrap;
+                          color: #60646c;
+                          display: flex;
+                          margin-bottom: 2rem;
+                          font-size: 1.2rem;
+                          line-height: 1.6666666667;
+
+                          .by-clicking-confirm-pay-you-agree-to-ticketes-general-terms-and-conditions-and-cancellation-policy-1sd-sub-0 {
+                          }
+                          .by-clicking-confirm-pay-you-agree-to-ticketes-general-terms-and-conditions-and-cancellation-policy-1sd-sub-1 {
+                            font-family: Open Sans, 'Source Sans Pro';
+                            font-size: 1.2rem;
+                            font-weight: 400;
+                            line-height: 1.6666666667;
+                            text-decoration-line: underline;
+                            color: #3a5ccc;
+                          }
+                          .by-clicking-confirm-pay-you-agree-to-ticketes-general-terms-and-conditions-and-cancellation-policy-1sd-sub-2 {
+                          }
+                          .by-clicking-confirm-pay-you-agree-to-ticketes-general-terms-and-conditions-and-cancellation-policy-1sd-sub-3 {
+                            color: #3a5ccc;
+                            font-family: Open Sans, 'Source Sans Pro';
+                            font-size: 1.2rem;
+                            font-weight: 400;
+                            line-height: 1.6666666667;
+                            text-decoration-line: underline;
+                          }
+                          .by-clicking-confirm-pay-you-agree-to-ticketes-general-terms-and-conditions-and-cancellation-policy-1sd-sub-4 {
+                          }
+                        }
+                        .button-Yo1 {
+                          height: 5.6rem;
+                          overflow: hidden;
+                          position: relative;
+                          display: flex;
+                          background-color: #2563eb;
+                          border-radius: 1.6rem;
+                          margin-right: 35.4rem;
+                          box-sizing: border-box;
+                          padding: 1.6rem 3.05rem 1.6rem 3.325rem;
+                          width: calc(100% - 35.4rem);
+                          align-items: center;
+
+                          .lock-FxK {
+                            margin: 0rem 1.475rem 0.206rem 0rem;
+                            width: 1.65rem;
+                            height: 1.8563rem;
+                            object-fit: contain;
+                            vertical-align: top;
+                            flex-shrink: 0;
+                          }
+                          .auto-group-bacw-YRd {
+                            height: 100%;
+                            display: flex;
+                            justify-content: center;
+                            color: #edeef0;
+                            white-space: nowrap;
+                            width: 12.5rem;
+                            font-size: 1.8rem;
+                            font-weight: 600;
+                            line-height: 1.3333333333;
+                            font-family: Open Sans, 'Source Sans Pro';
+                            flex-shrink: 0;
+                            align-items: center;
+                          }
+                        }
+                      }
+                    }
+                  }
+                  .payment-method-Px3 {
+                    box-sizing: border-box;
+                    padding: 2.4rem;
+                    width: 100%;
+                    height: 7.2rem;
+                    border: solid 0.1rem #d3d4db;
+                    background-color: #f9f9fb;
+                    border-radius: 1.6rem;
+                    flex-shrink: 0;
+
+                    .frame-801-XYT {
+                      width: 100%;
+                      height: 100%;
+                      display: flex;
+                      align-items: flex-end;
+
+                      .frame-799-VVH {
+                        flex-shrink: 0;
+                        margin-right: 56.9rem;
+                        display: flex;
+                        align-items: flex-start;
+
+                        .input-add-on-TBD {
+                          width: 3.5rem;
+                          height: 2rem;
+                          object-fit: contain;
+                          vertical-align: top;
+                          flex-shrink: 0;
+                          margin-right: 1.5rem;
+                        }
+                        .apple-pay-1Cj {
+                          line-height: 1.375;
+                          color: #8b8d98;
+                          font-family: Open Sans, 'Source Sans Pro';
+                          white-space: nowrap;
+                          flex-shrink: 0;
+                          font-size: 1.6rem;
+                          font-weight: 600;
+                        }
+                      }
+                      .radio-4B1 {
+                        width: 2.4rem;
+                        height: 100%;
+                        overflow: hidden;
+                        box-sizing: border-box;
+                        background-color: #e4e4e9;
+                        border-radius: 100rem;
+                        flex-shrink: 0;
+                        position: relative;
+                        border: solid 0.1rem #d3d4db;
+                      }
+                    }
+                  }
+                  .payment-method-9CT {
+                    width: 100%;
+                    height: 7.2rem;
+                    border: solid 0.1rem #d3d4db;
+                    background-color: #f9f9fb;
+                    border-radius: 1.6rem;
+                    flex-shrink: 0;
+                    box-sizing: border-box;
+                    padding: 2.4rem;
+
+                    .frame-801-tA3 {
+                      display: flex;
+                      align-items: flex-end;
+                      width: 100%;
+                      height: 100%;
+
+                      .frame-799-FWP {
+                        align-items: flex-start;
+                        flex-shrink: 0;
+                        margin-right: 56.9rem;
+                        display: flex;
+
+                        .input-add-on-R9y {
+                          margin-right: 1.5rem;
+                          width: 3.5rem;
+                          height: 2rem;
+                          object-fit: contain;
+                          vertical-align: top;
+                          flex-shrink: 0;
+                        }
+                        .google-pay-mjd {
+                          line-height: 1.375;
+                          color: #8b8d98;
+                          font-family: Open Sans, 'Source Sans Pro';
+                          white-space: nowrap;
+                          flex-shrink: 0;
+                          font-size: 1.6rem;
+                          font-weight: 600;
+                        }
+                      }
+                      .radio-Vfd {
+                        width: 2.4rem;
+                        box-sizing: border-box;
+                        flex-shrink: 0;
+                        border: solid 0.1rem #d3d4db;
+                        background-color: #e4e4e9;
+                        border-radius: 100rem;
+                        height: 100%;
+                        overflow: hidden;
+                        position: relative;
+                      }
+                    }
+                  }
+                }
+                .divider-AFy {
+                  width: 79.2rem;
+                  height: 0.1rem;
+                  object-fit: contain;
+                  vertical-align: top;
+                }
+              }
+              .frame-785-Jd5 {
+                flex-shrink: 0;
+                width: 79.2rem;
+
+                .text-fiX {
+                  white-space: nowrap;
+                  margin-bottom: 1.6rem;
+                  font-size: 2.4rem;
+                  font-weight: 600;
+                  line-height: 1.3333333333;
+                  letter-spacing: 0.0144rem;
+                  color: #1c2024;
+                  font-family: Open Sans, 'Source Sans Pro';
+                }
+                .section-message-Qg7 {
+                  width: 100%;
+                  border: solid 0.1rem #d3d4db;
+                  height: 10.2rem;
+                  overflow: hidden;
+                  position: relative;
+                  background-color: #ffffff;
+                  border-radius: 1.6rem;
+                  box-sizing: border-box;
+                  padding: 1.6rem 2.15rem 0rem 2.15rem;
+
+                  .conteiner-Lpf {
+                    align-items: flex-start;
+                    width: 72.45rem;
+                    height: 9.6rem;
+                    display: flex;
+
+                    .icon-wrapper-5XM {
+                      width: 1.3rem;
+                      height: 1.3rem;
+                      object-fit: contain;
+                      vertical-align: top;
+                      flex-shrink: 0;
+                      margin: 0.75rem 1.35rem 0rem 0rem;
+                    }
+                    .auto-group-hgfh-DNf {
+                      box-sizing: border-box;
+                      padding-top: 0.4rem;
+                      width: 69.8rem;
+                      height: 100%;
+                      flex-shrink: 0;
+
+                      .content-91R {
+                        width: 100%;
+                        height: 100%;
+
+                        .text-wrapper-oLs {
+                          width: 100%;
+                          height: 6.4rem;
+                          display: flex;
+                          flex-direction: column;
+
+                          .title-L5u {
+                            white-space: nowrap;
+                            margin-bottom: 0.4rem;
+                            display: flex;
+                            font-size: 1.4rem;
+                            font-weight: 600;
+                            line-height: 1.4285714286;
+                            color: #1c2024;
+                            font-family: Open Sans, 'Source Sans Pro';
+                            flex-shrink: 0;
+                          }
+                          .description-Ewy {
+                            line-height: 1.4285714286;
+                            color: #60646c;
+                            font-family: Open Sans, 'Source Sans Pro';
+                            flex-shrink: 0;
+                            max-width: 69.8rem;
+                            display: flex;
+                            font-size: 1.4rem;
+                            font-weight: 400;
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+          .booking-summary-W8o {
+            width: 38.4rem;
+            left: 81.6rem;
+            box-sizing: border-box;
+            border-radius: 2.4rem;
+            height: 86.6rem;
+            position: absolute;
+            top: 0;
+            border: solid 0.1rem #dddde3;
+            background-color: #ffffff;
+
+            .frame-973-chd {
+              left: 0.1rem;
+              top: 1.6rem;
+              align-items: center;
+              display: flex;
+              flex-direction: column;
+              width: 38.2rem;
+              height: 74rem;
+              position: absolute;
+
+              .frame-969-M9R {
+                margin: 0rem 1.5rem 2rem 1.5rem;
+                width: calc(100% - 3rem);
+                display: flex;
+                flex-direction: column;
+                flex-shrink: 0;
+
+                .image-w-blur-VFd {
+                  align-items: center;
+                  background-size: 100% 100%;
+                  background-image: url('REPLACE_IMAGE:4a5ddcb0779a8592bf1f7fd4aaaa1529cf6fcb42');
+                  padding: 1.2rem 1.2rem 1.6rem 1.2rem;
+                  flex-direction: column;
+                  filter: blur(2.5rem);
+                  display: flex;
+                  background-repeat: no-repeat;
+                  margin-bottom: 1.6rem;
+                  box-sizing: border-box;
+                  width: 100%;
+                  background-position: center;
+                  border-radius: 1.6rem;
+                  flex-shrink: 0;
+
+                  .badge-oXD {
+                    margin: 0rem 23.7rem 4.5rem 0rem;
+                    border-radius: 0.4rem;
+                    flex-shrink: 0;
+                    background-color: #ffffff;
+                    box-sizing: border-box;
+                    padding: 0.4rem 0.8rem 0.4rem 0.844rem;
+                    width: calc(100% - 23.7rem);
+                    height: 2.6rem;
+                    display: flex;
+                    align-items: center;
+
+                    .trophy-UdM {
+                      flex-shrink: 0;
+                      margin: 0.088rem 0.444rem 0rem 0rem;
+                      width: 1.3125rem;
+                      height: 1.05rem;
+                      object-fit: contain;
+                      vertical-align: top;
+                    }
+                    .auto-group-mdod-zLo {
+                      display: flex;
+                      font-size: 1.2rem;
+                      font-weight: 600;
+                      line-height: 1.5;
+                      color: #1c2024;
+                      font-family: Open Sans, 'Source Sans Pro';
+                      width: 5.7rem;
+                      height: 100%;
+                      flex-shrink: 0;
+                      justify-content: center;
+                      white-space: nowrap;
+                      align-items: center;
+                    }
+                  }
+                  .carousel-arrow-group-GJK {
+                    margin-bottom: 5.9rem;
+                    width: 100%;
+                    display: flex;
+                    align-items: center;
+                    flex-shrink: 0;
+
+                    .carousel-arrow-pKq {
+                      margin-right: 26.4rem;
+                      width: 3.2rem;
+                      height: 3.2rem;
+                      cursor: pointer;
+                      object-fit: contain;
+                      vertical-align: top;
+                      border-radius: 100rem;
+                      flex-shrink: 0;
+                    }
+                    .carousel-arrow-xB9 {
+                      width: 3.2rem;
+                      height: 3.2rem;
+                      cursor: pointer;
+                      object-fit: contain;
+                      vertical-align: top;
+                      border-radius: 100rem;
+                      flex-shrink: 0;
+                    }
+                  }
+                  .frame-839-UQP {
+                    width: 10.8rem;
+                    height: 0.8rem;
+                    object-fit: contain;
+                    vertical-align: top;
+                    flex-shrink: 0;
+                  }
+                }
+                .frame-971-X7m {
+                  flex-shrink: 0;
+                  width: 31.4rem;
+
+                  .frame-843-fUs {
+                    margin-bottom: 2.4rem;
+                    width: 100%;
+                    display: flex;
+                    flex-direction: column;
+
+                    .frame-761-cuu {
+                      align-items: center;
+                      flex-shrink: 0;
+                      margin: 0rem 0rem 0.2rem 0.065rem;
+                      height: 2rem;
+                      display: flex;
+                      column-gap: 0.4rem;
+
+                      .rating-review-badge-kWK {
+                        height: 100%;
+                        display: flex;
+                        align-items: center;
+                        flex-shrink: 0;
+
+                        .rating-star-J23 {
+                          height: 1.225rem;
+                          position: relative;
+                          object-fit: contain;
+                          vertical-align: top;
+                          flex-shrink: 0;
+                          margin-right: 0.4646rem;
+                          width: 1.2708rem;
+                        }
+                        .frame-758-1x3 {
+                          flex-shrink: 0;
+                          height: 100%;
+                          display: flex;
+                          align-items: center;
+
+                          .item-49-akF {
+                            text-align: right;
+                            font-size: 1.4rem;
+                            margin-right: 0.2rem;
+                            line-height: 1.4285714286;
+                            color: #1c2024;
+                            font-family: Open Sans, 'Source Sans Pro';
+                            white-space: nowrap;
+                            flex-shrink: 0;
+                            font-weight: 600;
+                          }
+                          .k-h4B {
+                            line-height: 1.4285714286;
+                            color: #60646c;
+                            font-family: Open Sans, 'Source Sans Pro';
+                            white-space: nowrap;
+                            flex-shrink: 0;
+                            text-align: right;
+                            font-size: 1.4rem;
+                            font-weight: 400;
+                          }
+                        }
+                      }
+                      .item--2s9 {
+                        font-weight: 400;
+                        line-height: 1.4285714286;
+                        color: #60646c;
+                        font-family: Open Sans, 'Source Sans Pro';
+                        white-space: nowrap;
+                        flex-shrink: 0;
+                        text-align: right;
+                        font-size: 1.4rem;
+                      }
+                      .category-aNs {
+                        font-family: Open Sans, 'Source Sans Pro';
+                        white-space: nowrap;
+                        flex-shrink: 0;
+                        font-size: 1.4rem;
+                        font-weight: 400;
+                        line-height: 1.4285714286;
+                        color: #60646c;
+                      }
+                    }
+                    .experience-name-89V {
+                      flex-shrink: 0;
+                      max-width: 31.4rem;
+                      font-size: 1.6rem;
+                      font-weight: 600;
+                      line-height: 1.375;
+                      color: #1c2024;
+                      font-family: Open Sans, 'Source Sans Pro';
+                    }
+                  }
+                  .frame-970-3XM {
+                    width: 30.6264rem;
+                    align-items: center;
+                    display: flex;
+                    flex-direction: column;
+                    margin-left: 0.0174rem;
+
+                    .auto-group-9ye7-C9M {
+                      box-sizing: border-box;
+                      padding: 0rem 0rem 1.6rem 0.108rem;
+                      width: 100%;
+                      align-items: flex-end;
+                      display: flex;
+                      flex-direction: column;
+                      flex-shrink: 0;
+
+                      .auto-group-wcuw-7GK {
+                        width: 100%;
+                        height: 8.2rem;
+                        position: relative;
+                        flex-shrink: 0;
+                        margin-bottom: 1.6rem;
+
+                        .frame-957-eGF {
+                          width: 30.5188rem;
+                          height: 5.4rem;
+                          position: absolute;
+                          display: flex;
+                          align-items: flex-start;
+                          box-sizing: border-box;
+                          padding-right: 12.8438rem;
+                          left: 0;
+                          top: 0;
+
+                          .input-add-on-MRZ {
+                            margin: 0.375rem 1.125rem 0rem 0rem;
+                            width: 1.75rem;
+                            height: 1.25rem;
+                            object-fit: contain;
+                            vertical-align: top;
+                            flex-shrink: 0;
+                          }
+                          .frame-968-VGs {
+                            height: 100%;
+                            display: flex;
+                            flex-direction: column;
+                            flex-shrink: 0;
+
+                            .text-EkF {
+                              color: #1c2024;
+                              font-family: Open Sans, 'Source Sans Pro';
+                              white-space: nowrap;
+                              flex-shrink: 0;
+                              margin-bottom: 1.6rem;
+                              font-size: 1.4rem;
+                              font-weight: 600;
+                              line-height: 1.4285714286;
+                            }
+                            .hint-text-zDd {
+                              color: #60646c;
+                              font-family: Open Sans, 'Source Sans Pro';
+                              white-space: nowrap;
+                              flex-shrink: 0;
+                              display: flex;
+                              font-size: 1.2rem;
+                              font-weight: 400;
+                              line-height: 1.5;
+                            }
+                          }
+                        }
+                        .frame-961-8qd {
+                          top: 3.6rem;
+                          align-items: flex-start;
+                          padding-right: 11.6438rem;
+                          position: absolute;
+                          left: 0.125rem;
+                          display: flex;
+                          box-sizing: border-box;
+                          width: 30.3938rem;
+                          height: 4.6rem;
+
+                          .input-add-on-S5d {
+                            object-fit: contain;
+                            vertical-align: top;
+                            flex-shrink: 0;
+                            margin: 0.125rem 1.25rem 0rem 0rem;
+                            width: 1.5rem;
+                            height: 1.625rem;
+                          }
+                          .frame-968-yLT {
+                            height: 100%;
+                            display: flex;
+                            flex-direction: column;
+                            flex-shrink: 0;
+
+                            .text-8z3 {
+                              white-space: nowrap;
+                              flex-shrink: 0;
+                              margin-bottom: 0.8rem;
+                              font-size: 1.4rem;
+                              font-weight: 600;
+                              line-height: 1.4285714286;
+                              color: #1c2024;
+                              font-family: Open Sans, 'Source Sans Pro';
+                            }
+                            .hint-text-471 {
+                              font-family: Open Sans, 'Source Sans Pro';
+                              white-space: nowrap;
+                              flex-shrink: 0;
+                              display: flex;
+                              font-size: 1.2rem;
+                              font-weight: 400;
+                              line-height: 1.5;
+                              color: #60646c;
+                            }
+                          }
+                        }
+                      }
+                      .frame-960-kkX {
+                        padding-right: 8.2438rem;
+                        width: calc(100% - 0.0625rem);
+                        height: 4.6rem;
+                        display: flex;
+                        align-items: flex-start;
+                        flex-shrink: 0;
+                        margin-left: 0.0625rem;
+                        box-sizing: border-box;
+
+                        .input-add-on-HkT {
+                          height: 1.625rem;
+                          object-fit: contain;
+                          vertical-align: top;
+                          flex-shrink: 0;
+                          margin: 0.188rem 1.187rem 0rem 0rem;
+                          width: 1.625rem;
+                        }
+                        .frame-968-c23 {
+                          flex-shrink: 0;
+                          height: 100%;
+                          display: flex;
+                          flex-direction: column;
+
+                          .text-aDm {
+                            margin-bottom: 0.8rem;
+                            font-size: 1.4rem;
+                            font-weight: 600;
+                            line-height: 1.4285714286;
+                            color: #1c2024;
+                            font-family: Open Sans, 'Source Sans Pro';
+                            white-space: nowrap;
+                            flex-shrink: 0;
+                          }
+                          .hint-text-uWw {
+                            font-weight: 400;
+                            line-height: 1.5;
+                            color: #60646c;
+                            font-family: Open Sans, 'Source Sans Pro';
+                            white-space: nowrap;
+                            flex-shrink: 0;
+                            display: flex;
+                            font-size: 1.2rem;
+                          }
+                        }
+                      }
+                    }
+                    .frame-958-37M {
+                      align-items: center;
+                      flex-shrink: 0;
+                      box-sizing: border-box;
+                      padding-right: 22.0438rem;
+                      width: 100%;
+                      display: flex;
+
+                      .input-add-on-y11 {
+                        vertical-align: top;
+                        flex-shrink: 0;
+                        margin: 0rem 1.017rem 0rem 0rem;
+                        width: 1.9653rem;
+                        height: 1.2502rem;
+                        object-fit: contain;
+                      }
+                      .text-hxb {
+                        flex-shrink: 0;
+                        font-size: 1.4rem;
+                        font-weight: 600;
+                        line-height: 1.4285714286;
+                        color: #1c2024;
+                        font-family: Open Sans, 'Source Sans Pro';
+                        white-space: nowrap;
+                      }
+                    }
+                  }
+                }
+              }
+              .frame-952-EBq {
+                width: 100%;
+                height: 23.6rem;
+                flex-shrink: 0;
+
+                .auto-group-2y3m-nz3 {
+                  align-items: center;
+                  display: flex;
+                  flex-direction: column;
+                  box-sizing: border-box;
+                  padding: 0rem 1.5rem 2rem 1.5rem;
+                  width: 100%;
+                  height: 5.6rem;
+
+                  .divider-jPV {
+                    width: 35.2rem;
+                    height: 0.1rem;
+                    object-fit: contain;
+                    vertical-align: top;
+                    flex-shrink: 0;
+                    margin-bottom: 1.5rem;
+                  }
+                  .frame-972-G8X {
+                    height: 2rem;
+                    display: flex;
+                    align-items: center;
+                    flex-shrink: 0;
+                    margin-right: 0.175rem;
+                    width: calc(100% - 0.175rem);
+
+                    .link-af1 {
+                      overflow: hidden;
+                      position: relative;
+                      display: flex;
+                      white-space: nowrap;
+                      text-decoration-line: underline;
+                      color: #60646c;
+                      margin-right: 17.375rem;
+                      width: 16.4rem;
+                      height: 100%;
+                      font-weight: 600;
+                      font-size: 1.4rem;
+                      flex-shrink: 0;
+                      line-height: 1.4285714286;
+                      font-family: Open Sans, 'Source Sans Pro';
+                      align-items: center;
+                      justify-content: center;
+                    }
+                    .plus-HZR {
+                      width: 1.25rem;
+                      height: 1.25rem;
+                      object-fit: contain;
+                      vertical-align: top;
+                      flex-shrink: 0;
+                    }
+                  }
+                }
+              }
+            }
+            .frame-959-RvX {
+              box-sizing: border-box;
+              width: 38.4rem;
+              position: absolute;
+              left: 0;
+              align-items: center;
+              display: flex;
+              border: solid 0.1rem #dddde3;
+              padding: 1.6rem 1.6rem 3.2rem 1.6rem;
+              height: 29rem;
+              top: 57.6rem;
+              flex-direction: column;
+
+              .frame-974-M3V {
+                width: 100%;
+                display: flex;
+                flex-direction: column;
+                flex-shrink: 0;
+                margin-bottom: 3.2rem;
+
+                .frame-804-Hhq {
+                  width: 100%;
+                  display: flex;
+                  flex-direction: column;
+                  flex-shrink: 0;
+                  margin-bottom: 2rem;
+
+                  .frame-956-T6X {
+                    flex-shrink: 0;
+                    margin-bottom: 0.8rem;
+                    width: 100%;
+                    display: flex;
+                    align-items: center;
+
+                    .text-C47 {
+                      flex-shrink: 0;
+                      margin-right: 19.1rem;
+                      font-size: 1.8rem;
+                      font-weight: 600;
+                      line-height: 1.4444444444;
+                      color: #1c2024;
+                      font-family: Open Sans, 'Source Sans Pro';
+                      white-space: nowrap;
+                    }
+                    .text-KeX {
+                      font-family: Open Sans, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      text-align: right;
+                      font-size: 1.8rem;
+                      font-weight: 600;
+                      line-height: 1.4444444444;
+                      color: #1c2024;
+                    }
+                  }
+                  .badge-Gpf {
+                    padding: 0.2rem 0.6rem;
+                    display: flex;
+                    border-radius: 100rem;
+                    flex-shrink: 0;
+                    margin-right: 21.7rem;
+                    box-sizing: border-box;
+                    width: calc(100% - 21.7rem);
+                    height: 2.2rem;
+                    align-items: center;
+                    background-color: #e9f9ee;
+
+                    .piggybank-CyD {
+                      margin: 0rem 0.444rem 0rem 0rem;
+                      width: 1.3563rem;
+                      height: 1.0496rem;
+                      object-fit: contain;
+                      vertical-align: top;
+                      flex-shrink: 0;
+                    }
+                    .auto-group-p7qb-vPR {
+                      align-items: center;
+                      height: 100%;
+                      display: flex;
+                      font-size: 1.2rem;
+                      font-weight: 600;
+                      line-height: 1.5;
+                      color: #299764;
+                      white-space: nowrap;
+                      width: 10.5rem;
+                      font-family: Open Sans, 'Source Sans Pro';
+                      justify-content: center;
+                      flex-shrink: 0;
+                    }
+                  }
+                }
+                .link-19y {
+                  width: calc(100% - 17.55rem);
+                  height: 1.8rem;
+                  overflow: hidden;
+                  position: relative;
+                  display: flex;
+                  align-items: center;
+                  flex-shrink: 0;
+                  margin-right: 17.55rem;
+
+                  .auto-group-ucrj-MDq {
+                    height: 100%;
+                    font-size: 1.2rem;
+                    color: #60646c;
+                    width: 15.3rem;
+                    display: flex;
+                    line-height: 1.5;
+                    text-decoration-line: underline;
+                    font-weight: 600;
+                    font-family: Open Sans, 'Source Sans Pro';
+                    align-items: center;
+                    margin-right: 1.05rem;
+                    white-space: nowrap;
+                    justify-content: center;
+                    flex-shrink: 0;
+                  }
+                  .info-RDh {
+                    vertical-align: top;
+                    flex-shrink: 0;
+                    margin-top: 0rem;
+                    width: 1.3rem;
+                    height: 1.3rem;
+                    object-fit: contain;
+                  }
+                }
+              }
+              .frame-805-LrT {
+                width: 100%;
+                display: flex;
+                flex-direction: column;
+                flex-shrink: 0;
+
+                .by-clicking-confirm-pay-you-agree-to-ticketes-general-terms-and-conditions-and-cancellation-policy-K4B {
+                  font-family: Open Sans, 'Source Sans Pro';
+                  flex-shrink: 0;
+                  margin-bottom: 2rem;
+                  max-width: 32rem;
+                  font-size: 1.2rem;
+                  font-weight: 400;
+                  line-height: 1.6666666667;
+                  color: #60646c;
+
+                  .by-clicking-confirm-pay-you-agree-to-ticketes-general-terms-and-conditions-and-cancellation-policy-K4B-sub-0 {
+                  }
+                  .by-clicking-confirm-pay-you-agree-to-ticketes-general-terms-and-conditions-and-cancellation-policy-K4B-sub-1 {
+                    font-weight: 400;
+                    line-height: 1.6666666667;
+                    text-decoration-line: underline;
+                    color: #3a5ccc;
+                    font-family: Open Sans, 'Source Sans Pro';
+                    font-size: 1.2rem;
+                  }
+                  .by-clicking-confirm-pay-you-agree-to-ticketes-general-terms-and-conditions-and-cancellation-policy-K4B-sub-2 {
+                  }
+                  .by-clicking-confirm-pay-you-agree-to-ticketes-general-terms-and-conditions-and-cancellation-policy-K4B-sub-3 {
+                    line-height: 1.6666666667;
+                    text-decoration-line: underline;
+                    color: #3a5ccc;
+                    font-family: Open Sans, 'Source Sans Pro';
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                  }
+                  .by-clicking-confirm-pay-you-agree-to-ticketes-general-terms-and-conditions-and-cancellation-policy-K4B-sub-4 {
+                  }
+                }
+                .button-aXq {
+                  box-sizing: border-box;
+                  height: 5.6rem;
+                  display: flex;
+                  align-items: center;
+                  background-color: #2563eb;
+                  padding: 1.6rem 9.65rem 1.6rem 9.925rem;
+                  width: 100%;
+                  overflow: hidden;
+                  position: relative;
+                  border-radius: 1.6rem;
+                  flex-shrink: 0;
+
+                  .lock-uq1 {
+                    object-fit: contain;
+                    vertical-align: top;
+                    flex-shrink: 0;
+                    margin: 0rem 1.163rem 0.206rem 0rem;
+                    width: 1.65rem;
+                    height: 1.8563rem;
+                  }
+                  .auto-group-jwsk-cDd {
+                    flex-shrink: 0;
+                    box-sizing: border-box;
+                    height: 100%;
+                    color: #edeef0;
+                    font-family: Open Sans, 'Source Sans Pro';
+                    white-space: nowrap;
+                    padding-left: 0.312rem;
+                    display: flex;
+                    font-size: 1.8rem;
+                    font-weight: 600;
+                    line-height: 1.3333333333;
+                  }
+                }
+              }
+            }
+          }
+        }
+        .divider-A8f {
+          width: 120rem;
+          height: 0.1rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+      }
+      .frame-843-7Jo {
+        width: 100%;
+        height: 70rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .heading-4zj {
+          width: 44.6rem;
+          height: 29rem;
+          position: absolute;
+          left: 0;
+          top: 0;
+
+          .frame-844-cWT {
+            margin-bottom: 4.8rem;
+            display: flex;
+            flex-direction: column;
+
+            .text-Zgb {
+              font-size: 2.4rem;
+              font-weight: 600;
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-family: Open Sans, 'Source Sans Pro';
+              margin-bottom: 1.6rem;
+              line-height: 1.3333333333;
+              letter-spacing: 0.0144rem;
+              color: #1c2024;
+            }
+            .text-Hcb {
+              font-weight: 400;
+              line-height: 1.5;
+              color: #60646c;
+              font-family: Open Sans, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              font-size: 1.6rem;
+            }
+          }
+          .frame-846-RTu {
+            box-sizing: border-box;
+            padding: 2.239rem 3.397rem 2.4rem 2.4rem;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            background-color: #f9f9fb;
+            border-radius: 1.6rem;
+
+            .frame-847-9eo {
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+              margin: 0.161rem 8.185rem 0rem 0rem;
+
+              .still-need-help-were-here-for-you-RcK {
+                font-weight: 600;
+                line-height: 1.4444444444;
+                color: #1c2024;
+                font-family: Open Sans, 'Source Sans Pro';
+                flex-shrink: 0;
+                margin-bottom: 2rem;
+                max-width: 16.6rem;
+                font-size: 1.8rem;
+              }
+              .button-k8o {
+                position: relative;
+                height: 5rem;
+                font-family: Open Sans, 'Source Sans Pro';
+                justify-content: center;
+                border-radius: 1.2rem;
+                flex-shrink: 0;
+                cursor: pointer;
+                display: flex;
+                font-weight: 600;
+                line-height: 1.375;
+                white-space: nowrap;
+                background-color: #2563eb;
+                width: 12.9rem;
+                overflow: hidden;
+                font-size: 1.6rem;
+                color: #edeef0;
+                align-items: center;
+              }
+            }
+            .about-illustrations-1aX {
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+              margin-bottom: 2.1107rem;
+              width: 14.0179rem;
+              height: 10.25rem;
+            }
+          }
+        }
+        .frame-842-8v3 {
+          position: absolute;
+          left: 51rem;
+          top: 0;
+          align-items: center;
+          display: flex;
+          flex-direction: column;
+          width: 233.4rem;
+          height: 70rem;
+
+          .auto-group-w8md-scj {
+            height: 36rem;
+            position: relative;
+            flex-shrink: 0;
+            margin-bottom: 2.4rem;
+            width: 100%;
+
+            .question-unit-2Vd {
+              box-sizing: border-box;
+              height: 12rem;
+              position: absolute;
+              left: 0;
+              top: 0;
+              background-color: #ffffff;
+              border-radius: 1.6rem;
+              padding: 2.4rem 0rem 0rem 3.063rem;
+              width: 233.4rem;
+              border: solid 0.1rem #b9bbc6;
+
+              .frame-841-ZEf {
+                width: 100%;
+                height: 100%;
+                display: flex;
+                flex-direction: column;
+
+                .question-idM {
+                  align-items: center;
+                  flex-shrink: 0;
+                  margin: 0rem 189.1rem 4.6rem 0rem;
+                  width: calc(100% - 189.1rem);
+                  display: flex;
+
+                  .plus-rjZ {
+                    margin-right: 2.6625rem;
+                    width: 1.875rem;
+                    height: 1.875rem;
+                    object-fit: contain;
+                    vertical-align: top;
+                    flex-shrink: 0;
+                  }
+                  .here-are-some-of-our-most-asked-questions-if-yours-is-not-there-contact-us-CoR {
+                    font-size: 1.8rem;
+                    font-weight: 600;
+                    line-height: 1.4444444444;
+                    color: #1c2024;
+                    font-family: Open Sans, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                  }
+                }
+                .absolutely-we-have-developed-customized-visuals-on-several-occasions-for-partners-however-we-always-try-to-use-default-visuals-or-microsoft-certified-custom-visuals-to-ensure-optimal-stability-in-the-reports-we-develop-KNF {
+                  color: #60646c;
+                  font-family: Open Sans, 'Source Sans Pro';
+                  white-space: nowrap;
+                  flex-shrink: 0;
+                  margin-left: 4.5375rem;
+                  font-size: 1.6rem;
+                  font-weight: 400;
+                  line-height: 1.5;
+                }
+              }
+            }
+            .question-unit-wPd {
+              padding: 2.4rem 2.7rem 4.8rem 3.212rem;
+              left: 0;
+              border-radius: 1.6rem;
+              top: 9.8rem;
+              border: solid 0.1rem #b9bbc6;
+              background-color: #ffffff;
+              box-sizing: border-box;
+              width: 69rem;
+              height: 26.2rem;
+              position: absolute;
+
+              .frame-841-Tsm {
+                height: 100%;
+                display: flex;
+                flex-direction: column;
+                width: 100%;
+
+                .question-dXM {
+                  width: calc(100% - 19.8rem);
+                  display: flex;
+                  align-items: center;
+                  flex-shrink: 0;
+                  margin: 0rem 19.8rem 2rem 0rem;
+
+                  .x-NE3 {
+                    margin: 0rem 2.812rem 0rem 0rem;
+                    width: 1.5756rem;
+                    height: 1.5757rem;
+                    object-fit: contain;
+                    vertical-align: top;
+                    flex-shrink: 0;
+                  }
+                  .here-are-some-of-our-most-asked-questions-if-yours-is-not-there-contact-us-uUs {
+                    line-height: 1.4444444444;
+                    color: #1c2024;
+                    font-family: Open Sans, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    font-size: 1.8rem;
+                    font-weight: 600;
+                  }
+                }
+                .absolutely-we-have-developed-customized-visuals-on-several-occasions-for-partners-however-we-always-try-to-use-default-visuals-or-microsoft-certified-custom-visuals-to-ensure-optimal-stability-in-the-reports-we-develop-QgX {
+                  max-width: 58.7rem;
+                  font-size: 1.6rem;
+                  font-weight: 400;
+                  line-height: 1.5;
+                  color: #60646c;
+                  font-family: Open Sans, 'Source Sans Pro';
+                  flex-shrink: 0;
+                  margin-left: 4.3878rem;
+                }
+              }
+            }
+          }
+          .auto-group-alth-Ddy {
+            height: 31.6rem;
+            position: relative;
+            flex-shrink: 0;
+            width: 100%;
+
+            .question-unit-9Xd {
+              position: absolute;
+              left: 0;
+              border-radius: 1.6rem;
+              box-sizing: border-box;
+              padding: 2.4rem 0rem 0rem 3.063rem;
+              width: 233.4rem;
+              height: 12rem;
+              top: 0;
+              border: solid 0.1rem #b9bbc6;
+              background-color: #ffffff;
+
+              .frame-841-4Ph {
+                width: 100%;
+                height: 100%;
+                display: flex;
+                flex-direction: column;
+
+                .question-DGb {
+                  margin: 0rem 190.5rem 4.6rem 0rem;
+                  width: calc(100% - 190.5rem);
+                  display: flex;
+                  align-items: center;
+                  flex-shrink: 0;
+
+                  .plus-iz3 {
+                    vertical-align: top;
+                    flex-shrink: 0;
+                    margin-right: 2.6625rem;
+                    width: 1.875rem;
+                    height: 1.875rem;
+                    object-fit: contain;
+                  }
+                  .here-are-some-of-our-most-asked-questions-if-yours-is-not-there-contact-us-fPV {
+                    font-family: Open Sans, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    font-size: 1.8rem;
+                    font-weight: 600;
+                    line-height: 1.4444444444;
+                    color: #1c2024;
+                  }
+                }
+                .absolutely-we-have-developed-customized-visuals-on-several-occasions-for-partners-however-we-always-try-to-use-default-visuals-or-microsoft-certified-custom-visuals-to-ensure-optimal-stability-in-the-reports-we-develop-B6w {
+                  font-weight: 400;
+                  line-height: 1.5;
+                  color: #60646c;
+                  font-family: Open Sans, 'Source Sans Pro';
+                  white-space: nowrap;
+                  flex-shrink: 0;
+                  margin-left: 4.5375rem;
+                  font-size: 1.6rem;
+                }
+              }
+            }
+            .question-unit-QEb {
+              height: 12rem;
+              position: absolute;
+              top: 9.8rem;
+              border: solid 0.1rem #b9bbc6;
+              box-sizing: border-box;
+              padding: 2.4rem 0rem 0rem 3.063rem;
+              width: 233.4rem;
+              left: 0;
+              background-color: #ffffff;
+              border-radius: 1.6rem;
+
+              .frame-841-KsM {
+                width: 100%;
+                height: 100%;
+                display: flex;
+                flex-direction: column;
+
+                .question-tfZ {
+                  width: calc(100% - 199.2rem);
+                  display: flex;
+                  align-items: center;
+                  flex-shrink: 0;
+                  margin: 0rem 199.2rem 4.6rem 0rem;
+
+                  .plus-SBH {
+                    flex-shrink: 0;
+                    margin-right: 2.6625rem;
+                    width: 1.875rem;
+                    height: 1.875rem;
+                    object-fit: contain;
+                    vertical-align: top;
+                  }
+                  .here-are-some-of-our-most-asked-questions-if-yours-is-not-there-contact-us-BPm {
+                    font-family: Open Sans, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    font-size: 1.8rem;
+                    font-weight: 600;
+                    line-height: 1.4444444444;
+                    color: #1c2024;
+                  }
+                }
+                .absolutely-we-have-developed-customized-visuals-on-several-occasions-for-partners-however-we-always-try-to-use-default-visuals-or-microsoft-certified-custom-visuals-to-ensure-optimal-stability-in-the-reports-we-develop-GRD {
+                  margin-left: 4.5375rem;
+                  font-size: 1.6rem;
+                  font-weight: 400;
+                  line-height: 1.5;
+                  color: #60646c;
+                  font-family: Open Sans, 'Source Sans Pro';
+                  white-space: nowrap;
+                  flex-shrink: 0;
+                }
+              }
+            }
+            .question-unit-TVh {
+              height: 12rem;
+              top: 19.6rem;
+              background-color: #ffffff;
+              border-radius: 1.6rem;
+              box-sizing: border-box;
+              width: 233.4rem;
+              position: absolute;
+              left: 0;
+              border: solid 0.1rem #b9bbc6;
+              padding: 2.4rem 0rem 0rem 3.063rem;
+
+              .frame-841-kUo {
+                display: flex;
+                flex-direction: column;
+                width: 100%;
+                height: 100%;
+
+                .question-iAj {
+                  margin: 0rem 189.2rem 4.6rem 0rem;
+                  width: calc(100% - 189.2rem);
+                  display: flex;
+                  align-items: center;
+                  flex-shrink: 0;
+
+                  .plus-FgT {
+                    vertical-align: top;
+                    flex-shrink: 0;
+                    margin-right: 2.6625rem;
+                    width: 1.875rem;
+                    height: 1.875rem;
+                    object-fit: contain;
+                  }
+                  .here-are-some-of-our-most-asked-questions-if-yours-is-not-there-contact-us-CLo {
+                    font-size: 1.8rem;
+                    font-weight: 600;
+                    line-height: 1.4444444444;
+                    color: #1c2024;
+                    font-family: Open Sans, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                  }
+                }
+                .absolutely-we-have-developed-customized-visuals-on-several-occasions-for-partners-however-we-always-try-to-use-default-visuals-or-microsoft-certified-custom-visuals-to-ensure-optimal-stability-in-the-reports-we-develop-iK9 {
+                  font-family: Open Sans, 'Source Sans Pro';
+                  white-space: nowrap;
+                  flex-shrink: 0;
+                  margin-left: 4.5375rem;
+                  font-size: 1.6rem;
+                  font-weight: 400;
+                  line-height: 1.5;
+                  color: #60646c;
+                }
+              }
+            }
+          }
+        }
+        .line-72-iyM {
+          width: 120rem;
+          height: 0.1rem;
+          position: absolute;
+          left: 0;
+          top: 68.6rem;
+          background-color: #dddde3;
+        }
+      }
+    }
+  }
+  .footer-1Sf {
+    width: 157.6rem;
+    background-color: #ffffff;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding-left: 8rem;
+
+    .auto-group-rljh-A4f {
+      padding: 2.7rem 0;
+      width: 100%;
+      height: 54rem;
+      margin-bottom: 1.6rem;
+      box-sizing: border-box;
+
+      .bottom-h4b {
+        width: 100%;
+        height: 9.8rem;
+        display: flex;
+        align-items: flex-end;
+
+        .logo-grey-qRh {
+          height: 3.2rem;
+          font-size: 1.8rem;
+          flex-shrink: 0;
+          white-space: nowrap;
+          margin-right: 0.8rem;
+          display: flex;
+          font-weight: 500;
+          line-height: 1.1000000636;
+          color: #0f172a;
+          font-family: Roboto, 'Source Sans Pro';
+        }
+        .companyname-202x-all-rights-reserved-KLs {
+          color: #475569;
+          font-family: Roboto, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin: 0rem 49.334rem 1rem 0rem;
+          font-size: 1.6rem;
+          font-weight: 400;
+          line-height: 1.3999999762;
+        }
+        .auto-group-ppsv-dMZ {
+          margin-bottom: 0.9rem;
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+
+          .auto-group-vwbr-aXh {
+            margin-bottom: 2.5rem;
+            width: 50.2664rem;
+            height: 4rem;
+            flex-shrink: 0;
+          }
+          .footer-components-vertical-menu-8JK {
+            height: 2.4rem;
+            position: relative;
+            flex-shrink: 0;
+            margin-left: 5.4664rem;
+            width: 66.4rem;
+
+            .footer-components-link-footer-components-link-E6T {
+              left: 0;
+              top: 0;
+              width: 22.2rem;
+              height: 2.4rem;
+              position: absolute;
+
+              .auto-group-pmus-m6P {
+                line-height: 1.3999999762;
+                color: #475569;
+                height: 2.3rem;
+                font-size: 1.6rem;
+                font-weight: 400;
+                font-family: Roboto, 'Source Sans Pro';
+                white-space: nowrap;
+                display: flex;
+                margin: 0rem 17.7rem 0.1rem 0rem;
+                width: 4.5rem;
+                align-items: center;
+                justify-content: center;
+              }
+            }
+            .footer-components-link-footer-components-link-2o1 {
+              top: 0;
+              width: 22.2rem;
+              height: 2.4rem;
+              position: absolute;
+              left: 6.9rem;
+
+              .auto-group-ujvr-wuy {
+                font-size: 1.6rem;
+                font-weight: 400;
+                line-height: 1.3999999762;
+                font-family: Roboto, 'Source Sans Pro';
+                display: flex;
+                margin: 0rem 17rem 0.1rem 0rem;
+                width: 5.2rem;
+                height: 2.3rem;
+                color: #475569;
+                white-space: nowrap;
+                align-items: center;
+                justify-content: center;
+              }
+            }
+            .footer-components-link-footer-components-link-Eu5 {
+              top: 0;
+              width: 22.2rem;
+              height: 2.4rem;
+              position: absolute;
+              left: 14.5rem;
+
+              .auto-group-pxgb-me7 {
+                line-height: 1.3999999762;
+                white-space: nowrap;
+                width: 5.7rem;
+                font-size: 1.6rem;
+                font-weight: 400;
+                font-family: Roboto, 'Source Sans Pro';
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                margin: 0rem 16.5rem 0.1rem 0rem;
+                height: 2.3rem;
+                color: #475569;
+              }
+            }
+            .footer-components-link-footer-components-link-sBM {
+              width: 22.2rem;
+              height: 2.4rem;
+              position: absolute;
+              left: 22.6rem;
+              top: 0;
+
+              .auto-group-nyrb-bd9 {
+                margin: 0rem 17.9rem 0.1rem 0rem;
+                width: 4.3rem;
+                line-height: 1.3999999762;
+                color: #475569;
+                white-space: nowrap;
+                display: flex;
+                justify-content: center;
+                height: 2.3rem;
+                font-size: 1.6rem;
+                font-weight: 400;
+                font-family: Roboto, 'Source Sans Pro';
+                align-items: center;
+              }
+            }
+            .footer-components-link-footer-components-link-6Zu {
+              width: 22.2rem;
+              height: 2.4rem;
+              position: absolute;
+              left: 29.3rem;
+              top: 0;
+
+              .auto-group-zzcp-8mV {
+                font-size: 1.6rem;
+                white-space: nowrap;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                font-family: Roboto, 'Source Sans Pro';
+                margin: 0rem 14.7rem 0.1rem 0rem;
+                width: 7.5rem;
+                height: 2.3rem;
+                font-weight: 400;
+                line-height: 1.3999999762;
+                color: #475569;
+              }
+            }
+            .footer-components-link-footer-components-link-qR1 {
+              position: absolute;
+              left: 39.2rem;
+              top: 0;
+              width: 22.2rem;
+              height: 2.4rem;
+
+              .auto-group-qn8f-Ay5 {
+                line-height: 1.3999999762;
+                color: #475569;
+                font-family: Roboto, 'Source Sans Pro';
+                white-space: nowrap;
+                display: flex;
+                align-items: center;
+                margin: 0rem 16.6rem 0.1rem 0rem;
+                width: 5.6rem;
+                height: 2.3rem;
+                font-size: 1.6rem;
+                font-weight: 400;
+                justify-content: center;
+              }
+            }
+          }
+        }
+      }
+    }
+    .disclaimer-rqu {
+      line-height: 1.3999999364;
+      color: #475569;
+      font-family: Roboto, 'Source Sans Pro';
+      white-space: nowrap;
+      font-size: 1.2rem;
+      font-weight: 400;
+    }
+  }
+}
